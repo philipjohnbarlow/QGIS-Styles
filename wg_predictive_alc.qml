@@ -1,4 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+# A QGIS style sheet for the Welsh Government's Predictive Agricultural Land Classification dataset
 <qgis maxScale="0" simplifyMaxScale="1" version="3.0.3-Girona" readOnly="0" hasScaleBasedVisibilityFlag="0" minScale="1e+8" simplifyLocal="1" simplifyDrawingTol="1" labelsEnabled="0" simplifyDrawingHints="1" simplifyAlgorithm="0">
   <renderer-v2 type="categorizedSymbol" enableorderby="0" symbollevels="0" forceraster="0" attr="predictive">
     <categories>
